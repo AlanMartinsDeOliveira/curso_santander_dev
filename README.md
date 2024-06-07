@@ -1,1 +1,4 @@
-# curso_santander_dev
+# Curso_santander_dev
+
+*Comando git push
+*Comando git pull
